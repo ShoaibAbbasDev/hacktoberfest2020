@@ -5,6 +5,9 @@ using namespace std;
 int main ()
 {
 	
-	for (int i=0;i<5;i++)
-		cout<<"I love Pakistan."<<endl;	
+	string name;
+	cout<<"enter your name "<<endl;
+	cin>>name;
+	cout<<name<<" Wellcome HacktoberFest 2020"<<endl;
+	return 0;
 }

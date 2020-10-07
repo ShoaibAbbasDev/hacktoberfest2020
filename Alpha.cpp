@@ -1,14 +1,13 @@
 //librarey add
 #include <iostream>
 
-using namespace std;
-
+//main funtion part
 int main ()
 {
-	//main funtion
+	
 	string name;
-	cout<<"enter your name "<<endl;
-	cin>>name;
-	cout<<name<<" Wellcome HacktoberFest 2020"<<endl;
+	std:cout<<"enter your name "<<endl;
+	std:cin>>name;
+	std:cout<<name<<" Wellcome HacktoberFest 2020"<<endl;
 	return 0;
 }
